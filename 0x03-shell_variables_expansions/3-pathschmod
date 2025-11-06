@@ -1,0 +1,1 @@
+echo "$PATH" | tr ":" "\n" | grep -c "." +x 3-paths
